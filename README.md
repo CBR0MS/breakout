@@ -1,5 +1,6 @@
 # breakout
 
-A replication of the classic game breakout using javaFX
+A remake of the classic game breakout using JavaFX
+Developed in Eclipse Neon in November 2016
 
-Built by Christian Broms 
+Built by Christian Broms
