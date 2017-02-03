@@ -42,11 +42,11 @@ public class Game extends Pane {
 	private boolean mediumBrickDiff = false;
 	private boolean brickNotEdited = true;
 	private boolean started = false;
-	private Text tLives = new Text();
-	private Text tScore = new Text();
-	private Text tTime = new Text();
-	private Timeline animation;
-	private Timeline timer;
+	Text tLives = new Text();
+	Text tScore = new Text();
+	Text tTime = new Text();
+	Timeline animation;
+	Timeline timer;
 	Button pause = new Button();
 	Button play = new Button();
 	Button menu = new Button();
